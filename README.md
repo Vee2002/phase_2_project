@@ -10,7 +10,7 @@ who plan to do renovations and how it may affect the price of the house if they 
 to sell and to buyer who plan to buy houses that have undergone renovations. 
 
 BUSINESS AND DATA UNDERSTANDING
-BUSINESS;
+
 The core of this project lies in gaining a profound understanding of the real estate
 market and providing valuable insights to various stakeholders. For this project we
 will be mainly focusing on the homeowners who wish to know how renovations will
@@ -19,6 +19,7 @@ The King County Housing Data Set contains information about the size, location, 
 and variable descriptions can be found on Kaggle
 
 MODELLING
+
 After exploring and preprocessing the data, simple and multiple linear regression
 models were built in OLS statsmodels, with price as the dependent variable. RESULTS
 Together, square footage, grade, bedrooms and bathrooms are the best predictors of a
