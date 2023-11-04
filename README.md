@@ -1,4 +1,4 @@
-** PROJECT OVERVIEW **
+PROJECT OVERVIEW
 
 The primary objective of this project is to assess a data set containing diverse
 information about residential properties. This data set encompasses a range of crucial
